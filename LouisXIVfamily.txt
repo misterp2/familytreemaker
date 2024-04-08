@@ -1,7 +1,7 @@
 # This file is an example to show how to format a family.
 
 # Two lines represent an union:
-Louis XIV (M, birthday=1638-09-05, deathday=1715-09-01)
+Gonzo XIV (M, birthday=1638-09-05, deathday=1715-09-01)
 Marie-Thérèse d'Autriche (F)
 # Indented lines after the union represent children
 	Louis de France (id=Louis1661, M, birthday=1661-11-01, deathday=1711-04-14)
